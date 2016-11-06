@@ -1,0 +1,32 @@
+.removeButton{
+    display: inline-block;
+}
+.updateButton{
+    display: inline-block;
+}
+.removeButton .btn-primary{
+    background-color: #d43f3a;
+    border-color: #d43f3a;
+}
+.removeButton .btn-primary:hover{
+    background-color: #cd282c;
+}
+.removeButton .btn-primary:active{
+    background-color: #802f2c;
+    border-color: #802f2c;
+}
+.removeButton .btn-primary {
+    width: 60px;
+    height: 25px;
+    font-size: 12px;
+    padding: 0px;
+}
+.updateButton .btn-primary {
+    width: 60px;
+    height: 25px;
+    font-size: 12px;
+    padding: 0px;
+}
+table>tbody>th>td {
+    border-top: 2px solid #ddd;
+}
